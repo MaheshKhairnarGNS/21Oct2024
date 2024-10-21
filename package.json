@@ -1,0 +1,20 @@
+{
+  "name": "21oct2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaheshKhairnarGNS/21Oct2024.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaheshKhairnarGNS/21Oct2024/issues"
+  },
+  "homepage": "https://github.com/MaheshKhairnarGNS/21Oct2024#readme"
+}
